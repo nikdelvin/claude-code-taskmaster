@@ -6,7 +6,7 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
 [![Claude Code Compatible](https://img.shields.io/badge/Claude%20Code-Sonnet%204-blue)](https://claude.ai)
 [![Firebase Ready](https://img.shields.io/badge/Firebase-Ready-orange)](https://firebase.google.com)
-[![Productivity Boost](https://img.shields.io/badge/Productivity%20Boost-40--70%25-green)](https://github.com/yourusername/claude-code-taskmaster)
+[![Productivity Boost](https://img.shields.io/badge/Productivity%20Boost-40--70%25-green)](https://github.com/nikdelvin/claude-code-taskmaster)
 
 ## 📖 Table of Contents
 
@@ -19,8 +19,10 @@
 - [Project Structure](#-project-structure)
 - [Contributing](#-contributing)
 - [Research & Background](#-research--background)
-- [Success Stories](#-success-stories)
+- [Resources](#-resources)
 - [License](#-license)
+- [Acknowledgments](#-acknowledgments)
+- [Support](#-support)
 
 ## 🎯 Overview
 
